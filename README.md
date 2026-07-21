@@ -50,7 +50,7 @@ See `scripts/clean_data.py`
 ![Market Overview](Market_Overview.png)
 
 ### Skill Demand
-![Skills in Demand](Skills_In_demand.png)
+![Skills in Demand](Skills_Demand.png)
 
 ### Methodology
 ![Methodology](Methadology.png)
