@@ -44,9 +44,16 @@ See `scripts/clean_data.py`
 | Power BI | Interactive dashboard |
 
 ## Power BI Dashboard
-3 pages: Market Overview, Skill Demand, Methodology (transparency page)
 
-**[Live dashboard link — add after publishing]**
+## Dashboard Screenshots
+### Market Overview
+![Market Overview](Market Overview.png)
+
+### Skill Demand
+![Skills in Demand](Skills in demand.png)
+
+### Methodology
+![Methodology](Methadology.png)
 
 ---
 **Author:** Sufiyan Khan
