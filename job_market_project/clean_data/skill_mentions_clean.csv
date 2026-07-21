@@ -1,0 +1,41 @@
+job_id,job_title,company,city,skill,mentioned
+JOBSEARCH_68,Data Analyst – BI & Data Reporting Specialist,Qureos,Karachi,Excel,1
+JOBSEARCH_68,Data Analyst – BI & Data Reporting Specialist,Qureos,Karachi,SQL,1
+JOBSEARCH_68,Data Analyst – BI & Data Reporting Specialist,Qureos,Karachi,Power BI,1
+JOBSEARCH_68,Data Analyst – BI & Data Reporting Specialist,Qureos,Karachi,Tableau,1
+JOBSEARCH_68,Data Analyst – BI & Data Reporting Specialist,Qureos,Karachi,Python,1
+JOBSEARCH_68,Data Analyst – BI & Data Reporting Specialist,Qureos,Karachi,R,1
+JOBSEARCH_68,Data Analyst – BI & Data Reporting Specialist,Qureos,Karachi,DAX,0
+JOBSEARCH_68,Data Analyst – BI & Data Reporting Specialist,Qureos,Karachi,Power Query,0
+JOBSEARCH_68,Data Analyst – BI & Data Reporting Specialist,Qureos,Karachi,ETL/Data Warehousing,0
+JOBSEARCH_68,Data Analyst – BI & Data Reporting Specialist,Qureos,Karachi,Certification (PL-300),0
+JOBSEARCH_78,Data Analyst,NCBA&E FLC,Lahore,Excel,1
+JOBSEARCH_78,Data Analyst,NCBA&E FLC,Lahore,SQL,1
+JOBSEARCH_78,Data Analyst,NCBA&E FLC,Lahore,Power BI,1
+JOBSEARCH_78,Data Analyst,NCBA&E FLC,Lahore,Tableau,1
+JOBSEARCH_78,Data Analyst,NCBA&E FLC,Lahore,Python,0
+JOBSEARCH_78,Data Analyst,NCBA&E FLC,Lahore,R,0
+JOBSEARCH_78,Data Analyst,NCBA&E FLC,Lahore,DAX,0
+JOBSEARCH_78,Data Analyst,NCBA&E FLC,Lahore,Power Query,0
+JOBSEARCH_78,Data Analyst,NCBA&E FLC,Lahore,ETL/Data Warehousing,0
+JOBSEARCH_78,Data Analyst,NCBA&E FLC,Lahore,Certification (PL-300),0
+JOBSEARCH_88,Power BI Business Intelligence Analyst,Provox Global Solutions,Islamabad,Excel,0
+JOBSEARCH_88,Power BI Business Intelligence Analyst,Provox Global Solutions,Islamabad,SQL,0
+JOBSEARCH_88,Power BI Business Intelligence Analyst,Provox Global Solutions,Islamabad,Power BI,1
+JOBSEARCH_88,Power BI Business Intelligence Analyst,Provox Global Solutions,Islamabad,Tableau,0
+JOBSEARCH_88,Power BI Business Intelligence Analyst,Provox Global Solutions,Islamabad,Python,0
+JOBSEARCH_88,Power BI Business Intelligence Analyst,Provox Global Solutions,Islamabad,R,0
+JOBSEARCH_88,Power BI Business Intelligence Analyst,Provox Global Solutions,Islamabad,DAX,1
+JOBSEARCH_88,Power BI Business Intelligence Analyst,Provox Global Solutions,Islamabad,Power Query,1
+JOBSEARCH_88,Power BI Business Intelligence Analyst,Provox Global Solutions,Islamabad,ETL/Data Warehousing,1
+JOBSEARCH_88,Power BI Business Intelligence Analyst,Provox Global Solutions,Islamabad,Certification (PL-300),0
+JOBSEARCH_90,Power BI Business Analyst,Accotech Pvt Ltd,Islamabad,Excel,1
+JOBSEARCH_90,Power BI Business Analyst,Accotech Pvt Ltd,Islamabad,SQL,1
+JOBSEARCH_90,Power BI Business Analyst,Accotech Pvt Ltd,Islamabad,Power BI,1
+JOBSEARCH_90,Power BI Business Analyst,Accotech Pvt Ltd,Islamabad,Tableau,0
+JOBSEARCH_90,Power BI Business Analyst,Accotech Pvt Ltd,Islamabad,Python,1
+JOBSEARCH_90,Power BI Business Analyst,Accotech Pvt Ltd,Islamabad,R,1
+JOBSEARCH_90,Power BI Business Analyst,Accotech Pvt Ltd,Islamabad,DAX,1
+JOBSEARCH_90,Power BI Business Analyst,Accotech Pvt Ltd,Islamabad,Power Query,1
+JOBSEARCH_90,Power BI Business Analyst,Accotech Pvt Ltd,Islamabad,ETL/Data Warehousing,1
+JOBSEARCH_90,Power BI Business Analyst,Accotech Pvt Ltd,Islamabad,Certification (PL-300),1
