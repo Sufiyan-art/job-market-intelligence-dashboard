@@ -47,10 +47,10 @@ See `scripts/clean_data.py`
 
 ## Dashboard Screenshots
 ### Market Overview
-![Market Overview](Market Overview.png)
+![Market Overview](Market_Overview.png)
 
 ### Skill Demand
-![Skills in Demand](Skills in demand.png)
+![Skills in Demand](Skills_in_demand.png)
 
 ### Methodology
 ![Methodology](Methadology.png)
